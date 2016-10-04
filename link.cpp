@@ -2,5 +2,5 @@
 
 Link::Link()
 {
-
+    color=Qt::green;
 }
