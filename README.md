@@ -1,11 +1,11 @@
 # CodeLinkQt
 A Simulink Like IDE for lua，based on QT.
 
-It is the way simulink chose.
+It is the way Simulink chose.
 
 It is used to process image with GUI showing data flow.
 
-It is encouraged to run script language on target machine instead of C++. Deep customized lua vm/Interpreter is essential.
+It is encouraged to run script language on target machine instead of C++. Customized lua vm/Interpreter is essential.
 
 The project is different from the project of CodeLink. The letter is a C++ IDE, like Visual Studio. What they have in common is allowing graphic programming.
 
