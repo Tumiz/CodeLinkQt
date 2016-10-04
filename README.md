@@ -1,7 +1,7 @@
 # CodeLinkQt
 A Simulink Like IDE for lua，based on QT.
 
-It is the way Simulink chose.
+It follows the way Simulink chose.
 
 It is used to process image with GUI showing data flow.
 
